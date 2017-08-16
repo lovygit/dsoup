@@ -432,7 +432,7 @@ public class LovyRBTree<T extends Comparable<? super T>> extends LovyBST<T> {
         rbTree.print();
     }
 
-    public static void main(String[] args){
-        test();
-    }
+//     public static void main(String[] args){
+//         test();
+//     }
 }
